@@ -1,0 +1,85 @@
+.container-fluid {
+    padding:0;
+
+}
+
+
+#onesec {
+
+    background-color: #f0ece3; 
+    
+    color:rgb(155, 144, 144);   
+    font-family: Consolas;
+    position: relative;
+    height:600px;
+    margin:0;
+
+}
+
+#name {
+    
+    top: 60%;
+    position:absolute;
+    margin-left: 5%;
+}
+
+.aboutme {
+    top: 70%;
+    
+    text-align: left;
+    right:50%;
+    position:absolute;
+    margin-left:5%;
+    
+}
+
+.menu {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+  position:absolute;
+  left:74.5%;
+  
+  
+
+}
+li {
+    float:right;
+    padding:10px;
+
+}
+
+#twosec {
+
+    background-color:#dfd3c3; 
+    
+    color:rgb(155, 144, 144);   
+    font-family: Consolas;
+    position: relative;
+    height:600px;
+    margin:0;
+    position: relative;
+
+}
+
+#Projects {
+    
+    top: 20%;
+    text-align: left;
+    position:absolute;
+    margin-left:5%;
+
+
+}
+
+.projD {
+    text-align: left;
+    right:50%;
+    position:absolute;
+    margin-left:5%;
+    top:50%;
+
+}
+
