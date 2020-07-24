@@ -1,5 +1,5 @@
 .container-fluid    {
-    position:relative;
+    padding:0;
 }
 
 
@@ -22,7 +22,7 @@
     margin-left: 5%;
 }
 
-.col-8    {
+.aboutme    {
     top:50%;
 
 }
