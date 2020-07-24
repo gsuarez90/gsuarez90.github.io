@@ -1,4 +1,6 @@
-
+.container-fluid {
+    padding:0;
+}  
 
 
 #onesec {
@@ -21,7 +23,7 @@
 }
 
 .aboutme    {
-    top:50%;
+    top:65%;
     position:absolute;
     margin-left: 5%;
 
