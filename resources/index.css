@@ -60,7 +60,7 @@ li {
     position: relative;
     height:600px;
     margin:0;
-    position: relative;
+    
 
 }
 
@@ -82,4 +82,30 @@ li {
     top:50%;
 
 }
+
+#Resume {
+    background-color: #c7b198;
+    font-family: Consolas;
+    position: relative;
+    height:100px;
+    margin:0;
+    color:rgb(155, 144, 144);
+    
+}
+
+.res {
+    text-align: center;
+    top: 40%;
+    position:absolute;
+    margin-left: 47%;
+    
+
+}
+
+a {
+    color:grey;
+
+}
+
+
 
