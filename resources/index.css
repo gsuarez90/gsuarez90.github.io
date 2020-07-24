@@ -52,7 +52,7 @@ li {
     color:rgb(155, 144, 144);   
     font-family: Consolas;
     position: relative;
-    height:600px;
+    height:900px;
     margin:0;
     
 
@@ -69,12 +69,12 @@ li {
 }
 
 .projD {
-    text-align: left;
-    margin-right: 80%;
-    position:absolute;
-    margin-left:5%;
-    top: 16%;
     
+    top: 16%;
+    position:absolute;
+    margin-left: 5%;
+    text-align: left;
+    right:40%;
 
 }
 
@@ -155,6 +155,7 @@ a {
     /* ... */
  
 }
+
 
 
 
