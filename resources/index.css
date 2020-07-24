@@ -15,7 +15,7 @@
 #name {
     
     top: 60%;
-    position:absolute;
+    position:sticky;
     margin-left: 5%;
 }
 
