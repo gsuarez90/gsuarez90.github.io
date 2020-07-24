@@ -20,8 +20,10 @@
     margin-left: 5%;
 }
 
+.aboutme    {
+    top:50%;
 
-
+}
 .menu {
     list-style-type: none;
   margin: 0;
