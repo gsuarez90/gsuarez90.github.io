@@ -1,8 +1,4 @@
-.container-fluid  {
-    padding:0;
-    position:0;
 
-}
 
 
 #onesec {
@@ -24,15 +20,7 @@
     margin-left: 5%;
 }
 
-.aboutme {
-    top: 70%;
-    
-    text-align: left;
-    right:50%;
-    position:absolute;
-    margin-left:5%;
-    
-}
+
 
 .menu {
     list-style-type: none;
