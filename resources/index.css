@@ -70,34 +70,27 @@ li {
 
 .projD {
     
-    top: 65%;
-    position:absolute;
+   
+    
     
     text-align: center;
-    right:10%;
-    left:10%;
+    
 
 }
 
 #Resume {
     background-color: #c7b198;
     font-family: Consolas;
-    position: relative;
+    
     height:100px;
-    margin:0;
     
     
 }
 
 .res {
     text-align: center;
-    top: 40%;
-    position:absolute;
-    left:43%;
-   
     
     
-
 }
 
 a {
@@ -107,34 +100,35 @@ a {
 
 #Contact {
     background-color: #596e79;
-    position: relative;
-    height: 100px;
+    
+    height: 80px;
+    text-align: center;
 
 }
 
 .fa-instagram {
   
     color: white;
-    top:50%;
-    position:absolute;
+    text-align: center;
+    
     
   }
 
   .fa {
     
     font-size: 30px;
-    margin-left: 52%;
+    
     text-align: center;
-    text-decoration: none;
+    
 
     
   }
 
   .fa-google {
-    top: 50%;
+   text-align: center;
     color: white;
-    position: absolute;
-    margin-left: 40%;
+    
+    
 
   }
 
