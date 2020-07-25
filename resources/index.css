@@ -74,8 +74,8 @@ li {
     position:absolute;
     
     text-align: center;
-    right:20%;
-    left:20%;
+    right:10%;
+    left:10%;
 
 }
 
@@ -85,7 +85,7 @@ li {
     position: relative;
     height:100px;
     margin:0;
-    color:rgb(155, 144, 144);
+    
     
 }
 
@@ -93,7 +93,9 @@ li {
     text-align: center;
     top: 40%;
     position:absolute;
-    margin-left:45%;
+    left:43%;
+   
+    
     
 
 }
@@ -121,7 +123,7 @@ a {
   .fa {
     
     font-size: 30px;
-    margin-left: 50%;
+    margin-left: 52%;
     text-align: center;
     text-decoration: none;
 
@@ -132,7 +134,7 @@ a {
     top: 50%;
     color: white;
     position: absolute;
-    margin-left: 45%;
+    margin-left: 40%;
 
   }
 
