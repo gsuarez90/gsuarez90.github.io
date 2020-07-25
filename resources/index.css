@@ -14,17 +14,18 @@
 
 #name {
     
-    top: 40%;
+    top: 30%;
     position:absolute;
     margin-left: 5%;
 }
 
 .aboutme    {
-    top:55%;
+    top:45%;
     position:absolute;
     margin-left: 5%;
     text-align: left;
-    right:40%;
+    right:10%;
+    
 
 }
 .menu {
@@ -52,7 +53,7 @@ li {
     color:#596e79;   
     font-family: Consolas;
     position: relative;
-    height:700px;
+    height:650px;
     margin:0;
     
 
