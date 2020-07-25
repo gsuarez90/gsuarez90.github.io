@@ -14,20 +14,17 @@
 
 #name {
     
-    top: 30%;
-    position: absolute;
-    margin-left: 5%;
+    text-align: left;
+    padding-top: 50%;
 }
 
 .aboutme    {
-    top: 45%;
-    position: absolute;
-    margin-left: 5%;
-    text-align: left;
-    right: 10%;
     
-
+    text-align: left;
+    width: 80%;
+    
 }
+
 .menu {
     list-style-type: none;
   margin: 0;
