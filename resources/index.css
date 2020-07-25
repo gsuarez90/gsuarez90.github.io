@@ -49,10 +49,10 @@ li {
 
     background-color:#dfd3c3; 
     
-    color:rgb(155, 144, 144);   
+    color:#596e79;   
     font-family: Consolas;
     position: relative;
-    height:1000px;
+    height:900px;
     margin:0;
     
 
@@ -70,7 +70,7 @@ li {
 
 .projD {
     
-    top: 70%;
+    top: 75%;
     position:absolute;
     margin-left: 5%;
     text-align: left;
@@ -92,7 +92,7 @@ li {
     text-align: center;
     top: 40%;
     position:absolute;
-    margin-left: 45%;
+    margin-left:45%;
     
 
 }
@@ -135,14 +135,7 @@ a {
 
   }
 
-  .phone {
-    font-size: 15px;
-    position: absolute;
-    margin-left: 5%;
-    top:50%;
-    color:white;
-
-  }
+  
 
   @media (max-width: 767px) {
  
