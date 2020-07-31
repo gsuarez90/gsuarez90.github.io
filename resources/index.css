@@ -16,6 +16,10 @@
     
     text-align: left;
     padding-top: 60%;
+    border-bottom: 2px;
+    border-bottom-color: #c7b198;
+    border-bottom-style: groove;
+    padding-bottom: 5px;
 }
 
 .aboutme    {
@@ -79,6 +83,10 @@ ul {
     text-align: left;
     position: absolute;
     margin-left: 5%;
+    border-bottom: 2px;
+    border-bottom-style: groove;
+    border-bottom-color: #c7b198;
+    padding-bottom: 5px;
 
 
 }
@@ -89,6 +97,10 @@ ul {
     
     
     text-align: center;
+    border-top: 2px;
+    border-top-style: groove;
+    border-top-color: #c7b198;
+    padding-top: 10px;
     
 
 }
@@ -112,6 +124,7 @@ a {
     height: 100%;
     margin-bottom: 0px;
     color:white;
+    
 
 }
 
