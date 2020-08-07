@@ -5,7 +5,7 @@
     background-color: #f0ece3; 
     
     color:#596e79;   
-    font-family: Consolas;
+    font-family: 'Mukta Vaani', sans-serif;
     position: relative;
     height: 100%;
     margin: 0;
@@ -39,7 +39,7 @@
   color:white;
   text-align: right;
   
-  font-family: Consolas;
+  font-family:  'Mukta Vaani', sans-serif;
   width: 25%;
   margin-left: 75%;
 
@@ -49,7 +49,7 @@
 li {
 
     display: inline;
-    padding: 5px;
+    padding: 12px;
     
 
 }
@@ -69,7 +69,7 @@ ul {
     background-color:#dfd3c3; 
     
     color:#596e79;   
-    font-family: Consolas;
+    font-family: 'Mukta Vaani', sans-serif;
     position: relative;
     height: 100%;
     margin: 0;
