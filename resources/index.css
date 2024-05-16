@@ -20,14 +20,14 @@
     border-bottom-color: #c7b198;
     border-bottom-style: groove;
     padding-bottom: 5px;
-    position: relative;
+    /*position: relative;*/
 }
 
 .aboutme    {
     
     text-align: center;
     width: auto;
-    margin-right: 77%;
+    /*margin-right: 77%;*/
     
 }
 
@@ -109,14 +109,23 @@ ul {
 }
 
 .glide {
-  position: relative;
-  animation: glide 2s ease-in-out; /* Add this line for animation */
+    position: absolute;
+  left: -100vw; /* Move the element off-screen to the left initially */
+  animation: glide 2s ease-in-out;
+  animation-fill-mode: forwards;
+}
+
+@keyframes glide {
+  0% { left: -100vw; }
+  100% { left: 0; }
+  /*position: relative;
+  animation: glide 2s ease-in-out; Add this line for animation 
   animation-fill-mode: forwards; /* Add this line for animation */
   /*animation: glide 2s linear;
   animation-fill-mode: forwards;*/
 }
 
-@keyframes glide {
+/*@keyframes glide {
   0% { right: 0; }
   100% { right: -100vw; }
   
