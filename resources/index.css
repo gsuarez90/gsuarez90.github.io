@@ -106,6 +106,20 @@ ul {
 
 }
 
+.glide {
+  animation: glide 2s linear;
+  animation-fill-mode: forwards;
+}
+
+@keyframes glide {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}
+
 
 
 
