@@ -78,6 +78,18 @@
     </div>
 </div>
 
+<script>
+function setGlide(targetElement) {
+  targetElement.style.position = "relative";
+  targetElement.style.right = "-100vw";
+  targetElement.classList.add("glide");
+  return targetElement;
+}
+
+const nameElement = document.getElementById("name");
+setGlide(nameElement);
+</script>
+
     <!-- Summ -->
 <div class="container">
         <div class="row">   
