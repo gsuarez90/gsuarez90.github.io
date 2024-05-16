@@ -20,6 +20,7 @@
     border-bottom-color: #c7b198;
     border-bottom-style: groove;
     padding-bottom: 5px;
+    position: relative;
 }
 
 .aboutme    {
