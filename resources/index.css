@@ -108,17 +108,24 @@ ul {
 }
 
 .glide {
-  animation: glide 2s linear;
-  animation-fill-mode: forwards;
+  position: relative;
+  animation: glide 2s ease-in-out; /* Add this line for animation */
+  animation-fill-mode: forwards; /* Add this line for animation */
+  /*animation: glide 2s linear;
+  animation-fill-mode: forwards;*/
 }
 
 @keyframes glide {
-  0% {
+  0% { right: 0; }
+  100% { right: -100vw; }
+  
+  /*0% {
+    
     transform: translateX(100%);
   }
   100% {
     transform: translateX(0%);
-  }
+  }*/
 }
 
 
