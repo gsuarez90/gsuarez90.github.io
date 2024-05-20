@@ -112,7 +112,7 @@ ul {
 
 .glide {
     position: absolute;
-  left: -100vw; /* Move the element off-screen to the left initially */
+  left: 100vw; /* Move the element off-screen to the left initially */
   animation: glide 2s ease-in-out;
   animation-fill-mode: forwards;
 }
